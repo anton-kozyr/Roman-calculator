@@ -1,7 +1,3 @@
-package ant
-
-import scala.None
-
 object RomanCalc {
   // Mapping between Arabic numbers and Roman "digits"
   val map = List(

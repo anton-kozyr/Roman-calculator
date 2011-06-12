@@ -1,7 +1,3 @@
-package ant
-
-import scala.None
-
 object RomanCalc {
   val map = List(
     1000 -> "M", 900 -> "CM", 500 -> "D", 400 -> "CD",
